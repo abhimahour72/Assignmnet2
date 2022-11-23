@@ -1,0 +1,2 @@
+
+Here in this app, We can invest any amount of money in the NIfty 50 stocks equally and get the equity curve. We can also find out the top performing stocks by giving the time period to access their performance and invest in them and get the equity curve. Also, I have included the equity curve for the NIFTY50 index to compare. Using this app, we can access the Nifty 50 stocks and invest accordingly.
